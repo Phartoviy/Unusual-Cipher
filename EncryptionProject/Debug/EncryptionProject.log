@@ -1,3 +1,3 @@
 ﻿  Encryption.cpp
-C:\Users\HP\source\repos\EncryptionProject\EncryptionProject\Encryption.cpp(88,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\EncryptionProject\EncryptionProject\Encryption.cpp(109,21): warning C4018: <: несоответствие типов со знаком и без знака
   EncryptionProject.vcxproj -> C:\Users\HP\source\repos\EncryptionProject\Debug\EncryptionProject.exe
